@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modelo de caixas</title>
+    <style>
+        h1 { /*o h1 é box level por padrão mas se quiser transformar ele em inline é so colocar a tag display:inline */
+            background-color: lightgray;
+            height: 300px;
+            width: 300px;
+            border: 10px solid darkslategray;
+            padding: 10px;
+            margin: 20px 20px 40px 20px;
+
+            /*margin: auto serve para centralizar a margem.*/
+
+            outline: 5px dashed salmon;
+        }
+        a { /* a tag a por padrão é inline, mas caso queira alterar isso é só colocar display block ai ele vira uma box level, e se você quiser continuar inline mas com altura e largura, é só colocar o display:inline-block  */
+            border: 10px solid red;
+            padding: 10px;
+        }
+    </style>
+
+</head>
+<body>
+    <h1>Exemplo de caixa box levels</h1>
+    <p>Parágrafos também são exemplos de box-level, mas os <a href="https://www.cursoemvideo.com/">  links são exemplos de caixas inline-level </a>.Vamos ver como tudo isso funciona.</p>
+</body>
+</html>
