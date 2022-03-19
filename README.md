@@ -9,7 +9,7 @@ Estou aprendendo a criar sites e gerenciar meus repositórios.
 
 <a href="https://martalessa.github.io/Html-Css/exercicio/ex008/index.html">Acessar o exercício 03</a>
 
-<a href="https://martalessa.github.io/Html-Css/exercicio/ex008B/index.html">Acessar o exercício 04</a>
+<a href="https://martalessa.github.io/Html-Css/exercicio/ex008b/index.html">Acessar o exercício 04</a>
 
 <a href="https://martalessa.github.io/Html-Css/exercicio/ex009/index.html">Acessar o exercício 05</a>
 
