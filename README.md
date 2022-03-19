@@ -19,5 +19,20 @@ Estou aprendendo a criar sites e gerenciar meus repositórios.
 
 <a href="https://martalessa.github.io/Html-Css/exercises/ex016/index.html">Executar o exercício 08</a>
 
-<a href="https://martalessa.github.io/Html-Css/desafios/desafio03/index.html"> Executar o exercício 09 </a>
+<a href="https://martalessa.github.io/Html-Css/exercises/ex017/index.html">Executar o exercício 09</a>
 
+<a href="https://martalessa.github.io/Html-Css/exercises/ex018/index.html">Executar o exercício 10</a>
+
+<a href="https://martalessa.github.io/Html-Css/exercises/ex019/index.html">Executar o exercício 11</a>
+
+<a href="https://martalessa.github.io/Html-Css/exercises/ex020/index.html">Executar o exercício 12</a>
+
+<a href="https://martalessa.github.io/Html-Css/desafios/desafio03/index.html"> Executar o exercício 13 </a>
+
+<a href="https://martalessa.github.io/Html-Css/desafios/desafio04/index.html"> Executar o exercício 14 </a>
+
+<a href="https://martalessa.github.io/Html-Css/desafios/desafio05/index.html"> Executar o exercício 15 </a>
+
+<a href="https://martalessa.github.io/Html-Css/desafios/desafio08/index.html"> Executar o exercício 16 </a>
+
+<a href="https://martalessa.github.io/Html-Css/desafios/desafio09/index.html"> Executar o exercício 17 </a>
