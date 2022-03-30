@@ -37,4 +37,4 @@ Estou aprendendo a criar sites e gerenciar meus repositórios.
 
 <a href="https://martalessa.github.io/Html-Css/desafios/d09/index.html">Acessar o exercício 17</a>
 
-<a href="https://martalessa.github.io/Html-Css/exercicio/ex022/index.html">Acessar o exercício 18</a>
+<a href="https://martalessa.github.io/Html-Css/exercicio/ex023/index.html">Acessar o exercício 18</a>
