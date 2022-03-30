@@ -31,12 +31,16 @@ Estou aprendendo a criar sites e gerenciar meus repositórios.
 
 <a href="https://martalessa.github.io/Html-Css/desafios/d04/index.html">Acessar o exercício 14</a>
 
-<a href="https://martalessa.github.io/Html-Css/desafios/d05/index.html">Acessar o exercício 15</a>
+<a href="https://martalessa.github.io/Html-Css/exercicio/ex021/index.html">Acessar o exercício 15</a>
 
-<a href="https://martalessa.github.io/Html-Css/desafios/d08/index.html">Acessar o exercício 16</a>
+<a href="https://martalessa.github.io/Html-Css/desafios/d05/index.html">Acessar o exercício 16</a>
 
-<a href="https://martalessa.github.io/Html-Css/desafios/d09/index.html">Acessar o exercício 17</a>
+<a href="https://martalessa.github.io/Html-Css/desafios/d08/index.html">Acessar o exercício 17</a>
 
-<a href="https://martalessa.github.io/Html-Css/exercicio/ex022/index.html">Acessar o exercício 18</a>
+<a href="https://martalessa.github.io/Html-Css/desafios/d09/index.html">Acessar o exercício 18</a>
 
-<a href="https://martalessa.github.io/Html-Css/exercicio/ex023/index.html">Acessar o exercício 19</a>
+<a href="https://martalessa.github.io/Html-Css/desafios/d10/index.html">Acessar o exercício 19</a>
+
+<a href="https://martalessa.github.io/Html-Css/exercicio/ex022/index.html">Acessar o exercício 20</a>
+
+<a href="https://martalessa.github.io/Html-Css/exercicio/ex023/index.html">Acessar o exercício 21</a>
