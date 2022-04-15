@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+<body>
+    <h1>Formulário</h1>
+
+    <form method="post" action="#" enctype="multipart/form-data">
+        <fieldset>
+            <legend> Dados do Cliente</legend>
+        Nome:<input type="text" name="nome" placeholder="Informe o seu nome" required> <br>
+
+        CPF  :                                           <input type="text" name="cpf" placeholder="Digite seu CPF" maxlength="14" pattern="[0-9] {3}\.[0-9] {3}\.[0-9] {3}-[0-9] {2}"> <br>
+
+        Email:<input type="email" name="Email" placeholder="Digite seu email"> <br>
+
+        Senha: <input type="password" name="Senha" placeholder="Digite uma senha de 8 dígitos"> <br> 
+        Data de nascimento: <input type="date" name="data"> <br>
+        Sexo: 
+        <label for="Homem"> Homem</label>
+        <input type="radio" name="Sexo" id="Homem"> 
+        <label for="Mulher"> Mulher</label>
+        <input type="radio" name="Sexo" id="Mulher"> <br> <br>
+
+        Você tem interesse em quais opções de vagas? <br>
+        
+
+        <input type="checkbox" name="vagas" value="Recepcionista"> Recepcionista <br>
+        <input type="checkbox" name="vagas" value="Garçom"> Garçom <br>
+        <input type="checkbox" name="vagas" value="Enfermeiro"> Enfermeiro <br>
+        <input type="checkbox" name="vagas" value="Secretária"> Secretária <br>
+        <input type="checkbox" name="vagas" value="Auxiliar de escritório"> Auxiliar de escritório <br> <br>
+
+        Você prefere contato por? <br>
+        <input type="radio" name="contato"> Telefone <br>
+        <input type="radio" name="contato" checked > Email <br> <br>
+
+        Qual o seu idioma nativo? <br>
+        <input list="idiomas" name="idiomas">
+        <datalist id="idiomas">
+            <option value="Português">
+            <option value="Inglês">
+            <option value="Espanhol">
+            <option value="Japonês">
+        </datalist> <br> <br>
+        Faça um pequeno resumo sobre você: <br> 
+        <textarea name="resumo" id="" cols="30" rows="10"></textarea> <br> <br>
+        
+
+        Anexe aqui o seu currículo:<input type="file" name="currículo" accept=".pdf"> <br> <br>
+
+
+    
+        <button type="submit"> Cadastrar</button>  <br>
+    </fieldset>
+
+
+
+
+
+    </form>
+    
+</body>
+</html>
